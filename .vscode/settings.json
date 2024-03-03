@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "linear_search.h": "c"
+  }
+}
