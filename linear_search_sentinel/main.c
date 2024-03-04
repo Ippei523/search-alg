@@ -6,7 +6,7 @@
 int main()
 {
   int arr[SIZE] = {7, 4, 2, 8, 10, 9, 1, 5, 3, 6};
-  int target = 11;
+  int target = 13;
 
   if (linear_search_sentinel(arr, target))
   {
